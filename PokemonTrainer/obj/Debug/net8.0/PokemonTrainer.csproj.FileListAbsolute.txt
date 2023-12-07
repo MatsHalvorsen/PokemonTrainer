@@ -1,0 +1,14 @@
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/bin/Debug/net8.0/PokemonTrainer
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/bin/Debug/net8.0/PokemonTrainer.deps.json
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/bin/Debug/net8.0/PokemonTrainer.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/bin/Debug/net8.0/PokemonTrainer.dll
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/bin/Debug/net8.0/PokemonTrainer.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.dll
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/refint/PokemonTrainer.dll
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/ref/PokemonTrainer.dll
