@@ -12,3 +12,4 @@
 /Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.pdb
 /Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.genruntimeconfig.cache
 /Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/ref/PokemonTrainer.dll
+/Users/halvorsen/Documents/GetAcademy /PP/PokemonTrainer/PokemonTrainer/obj/Debug/net8.0/PokemonTrainer.sourcelink.json

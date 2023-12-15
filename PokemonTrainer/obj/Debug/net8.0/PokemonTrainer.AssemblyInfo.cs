@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokemonTrainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2449f7e0456facba205ae62d8b9e42e032f37d46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ea9e8fa2cef3e2a1f93e103673de5af29710a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokemonTrainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokemonTrainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
